@@ -1,0 +1,2 @@
+Server: "Nome do server do seu SQlServer";
+Database: db_folha;
